@@ -1,6 +1,0 @@
-Microsoft Azure VM Server Host
-
-IP address: 172.188.48.228
-Username: tm04user
-Password: TM04password
-SSH Private Key: TM04VM_key.pem
