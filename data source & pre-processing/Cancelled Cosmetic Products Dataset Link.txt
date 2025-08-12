@@ -1,3 +1,0 @@
-https://storage.data.gov.my/healthcare/cosmetic_notifications_cancelled.csv
-
-source: https://data.moh.gov.my/data-catalogue/cosmetic_notifications_cancelled
